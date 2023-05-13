@@ -1,5 +1,7 @@
 # Cvičení: Interaktivní komponenty
 
+Cvičení do breakrooms pro kurz JavaScript 2 od Czechitas.
+
 ## 2. Kostky 1
 
 V tomto cvičení vyrobíme stránku s několika hracími kostkami. Budeme chtít, abychom mohli hodit každou kostkou zvlášť.
